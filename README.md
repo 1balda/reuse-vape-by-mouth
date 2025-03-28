@@ -13,6 +13,9 @@ Secondariamente:
 - Sembra impossibile che qualcuno smonti a mano le svapo monouso
 
 ## Aree di intervento:
+- Creazione di una macchina facilmente replicabile in laboratorio da appassionati del diy
+- creazione di istruzioni chiare per contribuire al progetto
+- fare una lista di contributori
 - Creeremo una linea di smontaggio. Perchè serve un metodo economico e interessante per riciclare tali apparecchiature. Caritas ticino ad esempio, diretta da Stefano Frisoli, ha bisogno di reinserire le persone nel mercato del lavoro, quindi prima di creare una fabbrica, deve esistere il macchinario.
 
 # To do list
