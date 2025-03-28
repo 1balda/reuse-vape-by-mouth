@@ -18,6 +18,14 @@ Secondariamente:
 - fare una lista di contributori
 - Creeremo una linea di smontaggio. Perchè serve un metodo economico e interessante per riciclare tali apparecchiature. Caritas ticino ad esempio, diretta da Stefano Frisoli, ha bisogno di reinserire le persone nel mercato del lavoro, quindi prima di creare una fabbrica, deve esistere il macchinario.
 
+## Contribute documentation
+Anyone can contribute. Your help is most welcome!
+
+Getting Started
+Guidelines
+Where to help
+Contacts
+
 # To do list
 - Capire come strutturare un read me per un progetto aperto a tutti
 - ricerca iniziale delle informazioni su come viene realizzata una vape e come viene gettata una vape
