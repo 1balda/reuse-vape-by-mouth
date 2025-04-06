@@ -15,6 +15,7 @@ Ciao! This project was born to reduce the environmental problem: **single-use va
   - Empowering people to take small actions with a big impact on the recycling supply chain.
 
 ## Who and how are solving the situation?
+This section is working in progress
 
 ## The most useful solution!
 I think the most useful solution is to build an assembly line. So moving backwards doesn't have to be difficult. But you need a team of people working towards a common goal.
