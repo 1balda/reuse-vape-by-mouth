@@ -3,6 +3,12 @@
 ## About
 Ciao! This project was born to reduce the environmental problem: single-use vapes are extremely polluting waste. To achieve this, the idea is to create an automated disassembly process. Anyone using this process will need a machine, which we will design together!
 
+## L'opportunità di risolvere il problema
+
+## Perchè l'idea è vincente
+
+## Soluzione che sta venendo applicata
+
 ## Further reading:
   ### The beginning:  
   The project was inspired by a [documentary](https://www.youtube.com/watch?v=btRH-XuQyNg&list=PL70d3FNwaXdb6OqJ9qJQBi_TLikRECbJ5&index=5) I watched on Swiss TV. It deeply moved me and made me question whether I could contribute something meaningful to the environment.
