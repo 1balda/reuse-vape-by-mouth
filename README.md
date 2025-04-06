@@ -11,24 +11,23 @@ Ciao! This project was born to reduce the environmental problem: **single-use va
   - There is limited data on production, updated to 2017, which makes it impossible to quantify the effects on waste generation in subsequent years.
   - Products that become waste once exhausted are currently not being tracked.
 
-## L'opportunità con questo progetto:
-  - dare la possibilità alle persone di fare piccole azioni con grande impatto sulla filiera del riciclo
-  - essere ispirazione per progetti più innovativi
+## The opportunity with this project
+  - Empowering people to take small actions with a big impact on the recycling supply chain.
 
-## Chi sta risolvendo la situazione?
+## Who and how are solving the situation?
 
-## Come stanno risolvendo la situazione?
+## The most useful solution!
+I think the most useful solution is to build an assembly line. So moving backwards doesn't have to be difficult. But you need a team of people working towards a common goal.
 
-## La soluzione più utile!
-
-## Further reading:
-  ### The beginning:  
+## Further reading
+  ### The beginning
   The project was inspired by a [documentary](https://www.youtube.com/watch?v=btRH-XuQyNg&list=PL70d3FNwaXdb6OqJ9qJQBi_TLikRECbJ5&index=5) I watched on Swiss TV. It deeply moved me and made me question whether I could contribute something meaningful to the environment.
 
-## To do list:
+## To do list
 - [ ] Creation of a machine that can be easily replicated in a laboratory by DIY enthusiasts. Maybe with 3D printing methods.
 - [ ] Creation of clear instructions, guidelines to contribute to the project.
 - [ ] Create a section named "where to help" and another section "contacts".
+- [ ] Find someone who is already working to reduce this waste and complete the section.
 
 ## Contribute documentation
 Anyone can contribute. Your help is most welcome!
