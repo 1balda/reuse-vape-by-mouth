@@ -1,7 +1,7 @@
 # Reuse-vape-by-mouth reference manual
 
 ## About
-Ciao! This project was born to reduce the environmental problem: *single-use vapes are extremely polluting waste.* To achieve this, the idea is to create an automated disassembly process. Anyone using this process will need a machine, which we will design together!
+Ciao! This project was born to reduce the environmental problem: **single-use vapes are extremely polluting waste.** To achieve this, the idea is to create an automated disassembly process. Anyone using this process will need a machine, which we will design together!
 
 ### Why do they pollute so much?
   - Disposable vapes contain batteries but are often disposed of in common waste.
