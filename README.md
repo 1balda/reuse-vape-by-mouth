@@ -7,29 +7,20 @@ Ciao! This project was born to reduce the environmental problem: single-use vape
   ### The beginning:  
   The project was inspired by a [documentary](https://www.youtube.com/watch?v=btRH-XuQyNg&list=PL70d3FNwaXdb6OqJ9qJQBi_TLikRECbJ5&index=5) I watched on Swiss TV. It deeply moved me and made me question whether I could contribute something meaningful to the environment.
   
-## Informazioni salienti:
+## Key information:
 
-  ### Per quali motivi inquinano molto?
-  - Le svapo monouso contengono batterie, ma spesso vengono gettate tra i rifiuti comuni.
-  - I produttori indicano in modo generico di trattare tali rifiuti come quelli elettronici, ma non basta. Questo perché tali oggetti sono assemblati con diversi materiali plastici e metallici.
+  ### Why do they pollute so much?
+  - Disposable vapes contain batteries but are often disposed of in common waste.
+  - Manufacturers generally recommend treating such waste as electronic waste, but this is not enough because these objects are made of various plastic and metal materials.
+  - The companies responsible for disposing of the parts store them because dismantling them would need to be done manually. It seems impossible for someone to dismantle disposable vapes manually.
+  - Vapes are not standardized, which makes it more challenging to establish recycling processes.
+  - There is limited data on production, updated to 2017, which makes it impossible to quantify the effects on waste generation in subsequent years.
+  - Products that become waste once exhausted are currently not being tracked.
 
-  Secondariamente:
-  - Le aziende che si occupano di smaltire i pezzi, le tengono a stock perché dovrebbero smontarle a mano
-  - Le svapo non sono standardizzate e quindi è più difficile stabilire dei processi di riciclo
-  - Ci sono pochi dati sulla produzione, aggiornati al 2017, per cui non è possibile quantificare gli effetti sulla produzione di rifiuti negli anni successivi
-  - I prodotti che una volta esausti diventano rifiuti, attualmente non vengono tracciati
-  - Sembra impossibile che qualcuno smonti a mano le svapo monouso
-
-## Aree di intervento:
-- Creazione di una macchina facilmente replicabile in laboratorio da appassionati del diy
-- creazione di istruzioni chiare per contribuire al progetto
-- fare una lista di contributori
-- Creeremo una linea di smontaggio. Perchè serve un metodo economico e interessante per riciclare tali apparecchiature. Prima di creare una fabbrica, deve esistere il macchinario, poi si possono reinserire le persone nel mercato del lavoro quando il business è sostenibile.
+## To do list:
+- [ ] Creation of a machine that can be easily replicated in a laboratory by DIY enthusiasts. Maybe with 3D printing methods.
+- [ ] Creation of clear instructions, guidelines to contribute to the project.
+- [ ] Create a section named "where to help" and another section "contacts".
 
 ## Contribute documentation
 Anyone can contribute. Your help is most welcome!
-
-- Getting Started
-- Guidelines
-- Where to help
-- Contacts
